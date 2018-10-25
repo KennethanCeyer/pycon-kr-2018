@@ -2,7 +2,7 @@
 
 ![pycon2018 kr](../docs/images/presentation_cover_kr.png)
 
-[:page_facing_up: 원문 문서](../)
+[:page_facing_up: 원문 문서](../README.md)
 
 > 우아하게 준비하는 테스트와 리팩토링
 
