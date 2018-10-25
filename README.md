@@ -1,12 +1,12 @@
 # PyCon Korea 2017
 
-![pycon2017 kr](./docs/images/cover.png)
+![pycon2018 kr](./docs/images/presentation.png)
 
 > Gracefully Testing and Refactoring
 
 ## Presentation
 
-[![Slideshare cover](http://www.pigno.se/static/assets/images/pycon2017-slideshare-en.png)](https://www.slideshare.net/KennethCeyer/dealing-with-python-reactively-pycon-korea-2017)
+[![Slideshare cover](./docs/images/presentation_cover_en.png)](https://www.slideshare.net/KennethCeyer/pycon-korea-2018-109833085/KennethCeyer/pycon-korea-2018-109833085)
 
 This repository has sample code that based on PyCon Korea 2017 announcement.
 
