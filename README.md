@@ -1,4 +1,4 @@
-# PyCon Korea 2017
+# PyCon Korea 2018
 
 ![pycon2018 kr](./docs/images/presentation_cover_en.png)
 
