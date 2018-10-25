@@ -2,6 +2,8 @@
 
 ![pycon2018 kr](../docs/images/presentation_cover_kr.png)
 
+[:page_facing_up: 원문 문서](../)
+
 > 우아하게 준비하는 테스트와 리팩토링
 
 ## 발표자료
@@ -55,15 +57,15 @@ $ pipenv shell
 
 ## 튜토리얼
 
-- [cleancode](./src/cleancode)
-    - [broken_window](./src/cleancode/broken_window)
-    - [business](./src/cleancode/business)
-    - [example](./src/cleancode/example)
-- [tdd](./src/tdd)
-- [test](./src/test)
-    - [basic](./src/test/basic)
-    - [complex](./src/test/complex)
-    - [complex_di](./src/test/complex_di)
+- [cleancode](../src/cleancode)
+    - [broken_window](../src/cleancode/broken_window)
+    - [business](../src/cleancode/business)
+    - [example](../src/cleancode/example)
+- [tdd](../src/tdd)
+- [test](../src/test)
+    - [basic](../src/test/basic)
+    - [complex](../src/test/complex)
+    - [complex_di](../src/test/complex_di)
 
 ## 질문
 
